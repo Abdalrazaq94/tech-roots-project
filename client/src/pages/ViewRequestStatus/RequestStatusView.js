@@ -164,7 +164,7 @@ export function RequestStatus() {
 						<QRCode
 							className="qrCoder"
 							value={
-								"https://laptop-loop.herokuapp.com/laptop-request-status/" + id
+								"https://tech-roots-project.onrender.com/laptop-request-status/" + id
 							}
 							size={128}
 						/>
